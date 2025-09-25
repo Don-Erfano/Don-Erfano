@@ -1,8 +1,12 @@
 <!--
 **Don-Erfano/Don-Erfano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <a href="https://github.com/Don-Erfano">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00FF7F&size=25&center=true&vCenter=true&width=600&lines=Don+Erfano;" alt="Animated Console Log">
+  </a>
+</p>
 
-# Don Erfano
 
 **Frontend Developer – React | Next.js | NX Monorepo**  
 Building **scalable**, **high-performance** web applications with modern JavaScript frameworks.  
@@ -34,8 +38,8 @@ Specialized in **complex UI architectures**, **state management**, and **HTTP re
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Don-Erfano&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Erfano&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Don-Erfano&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Erfano&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 ---
