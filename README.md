@@ -1,31 +1,55 @@
-### Hi, I'm Don Erfano 👋
-**Frontend Developer** specializing in **React.js**, **Next.js**, and modern JavaScript.
-
-I build high-performance, scalable web applications with clean architecture, efficient state management, and a focus on delivering exceptional user experiences.
-
----
-
-- 🌱 **I’m currently learning:**  
-  Advanced **Next.js App Router**, **React Server Components**, and **TypeScript best practices** for large-scale projects.
-
-- 💬 **Ask me about:**  
-  React.js, Next.js, UI architecture, and performance tuning for web apps.
-
-- 📫 **How to reach me:**  
-   [Email](erfanmbe@gmail.com)
+<h1 align="center">Don Erfano</h1>
+<h3 align="center">Frontend Developer – React.js | Next.js | TypeScript</h3>
 
 ---
 
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <!-- UI Libraries -->
+  <img src="https://avatars.githubusercontent.com/u/121015036?s=200&v=4" alt="Hero UI" width="40" height="40"/>
+  <!-- Other Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/7922020?s=200&v=4" alt="Alova" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nrwl/nx/master/logo/nx-logo.png" alt="Nx Monorepo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Don-Erfano&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Erfano&layout=compact&theme=github_dark&hide_title=true)
+## 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Don-Erfano&theme=algolia&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Don-Erfano&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Erfano&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Don-Erfano&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📬 Contact
+<p align="center">
+  📧 <a href="mailto:your.email@example.com">erfanmbe@gmail.com</a> •   
+  🖥 <a href="https://github.com/Don-Erfano">GitHub</a>
+</p>
