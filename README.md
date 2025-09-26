@@ -8,7 +8,7 @@
 </p>
 
 
-**Frontend Developer – React | Next.js | NX Monorepo**  
+**Frontend Developer – JavaScript | React | Next.js**  
 Building **scalable**, **high-performance** web applications with modern JavaScript frameworks.  
 Specialized in **complex UI architectures**, **state management**, and **HTTP request optimization**.
 
