@@ -54,7 +54,8 @@ Specialized in **complex UI architectures**, **state management**, and **HTTP re
 
 ## 📬 Contact
 - **Email:** [erfanmbe@gmail.com](erfanmbe@gmail.com)  
-- **GitHub:** [https://github.com/Don-Erfano](https://github.com/Don-Erfano)  
+- **GitHub:** [https://github.com/Don-Erfano](https://github.com/Don-Erfano)
+- **LinkedIn:** [www.linkedin.com/in/erfan-mbe-396625287](www.linkedin.com/in/erfan-mbe-396625287)
 
 ---
 
